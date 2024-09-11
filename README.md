@@ -5,8 +5,8 @@ This tool allows you to convert Python scripts into standalone executables using
 ## Requirements
 
 Ensure you have the following installed:
-- **Python 3.12+** 
-- **PyInstaller** (Install via `pip install pyinstaller`)
+- [**Python 3.12+**](https://www.python.org/downloads/)
+- [**PyInstaller**](https://pypi.org/project/pyinstaller/) (Install via `pip install pyinstaller`)
 
 > **Note**: If you don't have Python and pip installed, you can use [this PowerShell script](https://github.com/kanukyu/pythonPipInstaller) to automatically install them.
 
