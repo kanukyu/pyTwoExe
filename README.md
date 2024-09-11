@@ -2,6 +2,20 @@
 
 This tool allows you to convert Python scripts into standalone executables using **PyInstaller**. It provides a graphical interface where you can select your Python file, specify an icon for the executable, and customize parameters such as hooks, runtime hooks, and excluded modules. The interface is available in both English and Turkish.
 
+## Screenshots
+
+### English GUI
+![pyTwoExe GUI EN](https://cdn.discordapp.com/attachments/1260029917396205700/1283541374167421010/pyTwoExeGUI_EN.png?ex=66e35e8e&is=66e20d0e&hm=2740c96141f4721d99b55692db53d0cc7a7f60495c57dffe2076a1fa54c7847a&)
+
+### English Info Popup
+![pyTwoExe INFO EN](https://cdn.discordapp.com/attachments/1260029917396205700/1283541374880190484/pyTwoExeINFO_EN.png?ex=66e35e8e&is=66e20d0e&hm=769e66d010c26087ebe59b4713e8a0961a0455f6372bcef93a78aa8b3079ad76&)
+
+### Turkish GUI
+![pyTwoExe GUI TR](https://cdn.discordapp.com/attachments/1260029917396205700/1283541374578331668/pyTwoExeGUI_TR.png?ex=66e35e8e&is=66e20d0e&hm=2e5df0735ac2e2549b9e976725353d79a24eac6bebb4b7e8715e1fa12efea909&)
+
+### Turkish Info Popup
+![pyTwoExe INFO TR](https://cdn.discordapp.com/attachments/1260029917396205700/1283541373869363260/pyTwoExeINFO_TR.png?ex=66e35e8e&is=66e20d0e&hm=314017b94078affeb08c25bb2063bf6b3a675562305989b07a2ab7163383a5ca&)
+
 ## Requirements
 
 Ensure you have the following installed:
