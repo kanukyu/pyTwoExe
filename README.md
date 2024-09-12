@@ -24,6 +24,23 @@ Ensure you have the following installed:
 
 > **Note**: If you don't have Python and pip installed, you can use [this PowerShell script](https://github.com/kanukyu/pythonPipInstaller) to automatically install them.
 
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kanukyu/pyTwoExe.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd pyTwoExe
+   ```
+3. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Execute script:
+   ```bash
+   python pyTwoExe.py
+   ```
 ## How to Use
 
 ### Running the Tool in Different Terminals
