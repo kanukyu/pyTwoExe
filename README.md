@@ -36,7 +36,7 @@ Ensure you have the following installed:
      ```
    - Run the Python script:
      ```bash
-     python your_script.py
+     python pyTwoExe.py
      ```
 
 2. **PowerShell**:
@@ -47,7 +47,7 @@ Ensure you have the following installed:
      ```
    - Run the script:
      ```bash
-     python your_script.py
+     python pyTwoExe.py
      ```
    - If you encounter an execution policy error, use the following command:
      ```bash
@@ -62,7 +62,7 @@ Ensure you have the following installed:
      ```
    - Run the Python script:
      ```bash
-     python your_script.py
+     python pyTwoExe.py
      ```
 
 ## Features
